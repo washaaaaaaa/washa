@@ -1,4 +1,4 @@
+tensorflow>=2.11.0,<2.16
 streamlit
-tensorflow
 pillow
 numpy
